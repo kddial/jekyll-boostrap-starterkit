@@ -1,0 +1,9 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// Imports
+/* Bootstrap sass,js import http://stackoverflow.com/questions/28733425/adding-bootstrap-to-jekyll */
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "minima";
+@import "main";
